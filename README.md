@@ -31,7 +31,7 @@ Learning Temporal Consistency for Low Light Video Enhancement From Single Images
 
 
 
-# Surveys
+# Surveys (TODO: summarize future work for each survey)
 Benchmarking Low-Light Image Enhancement and Beyond (IJCV 2021) [[paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01418-8.pdf)]
 
 Low-Light Image and Video Enhancement Using Deep Learning: A Survey (PAMI 2021) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609683)]
