@@ -4,37 +4,36 @@ This repository contains useful resources for image enhancement researches.
 # Papers
 
 ## CVPR 2022
-Toward Fast, Flexible, and Robust Low-Light Image Enhancement [[paper](https://arxiv.org/abs/2204.10137)]
+* Toward Fast, Flexible, and Robust Low-Light Image Enhancement [[paper](https://arxiv.org/abs/2204.10137)]
 
 ## WACV 2022
-Learning Color Representations for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Learning_Color_Representations_for_Low-Light_Image_Enhancement_WACV_2022_paper.pdf)]
+* Learning Color Representations for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Learning_Color_Representations_for_Low-Light_Image_Enhancement_WACV_2022_paper.pdf)]
 
 ## ICCV 2021
-Representative Color Transform for Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Representative_Color_Transform_for_Image_Enhancement_ICCV_2021_paper.pdf)]
+* Representative Color Transform for Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Representative_Color_Transform_for_Image_Enhancement_ICCV_2021_paper.pdf)]
 
-Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Adaptive_Unfolding_Total_Variation_Network_for_Low-Light_Image_Enhancement_ICCV_2021_paper.pdf)]
+* Adaptive Unfolding Total Variation Network for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Adaptive_Unfolding_Total_Variation_Network_for_Low-Light_Image_Enhancement_ICCV_2021_paper.pdf)]
 
-Deep Symmetric Network for Underexposed Image Enhancement With Recurrent Attentional Learning [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Deep_Symmetric_Network_for_Underexposed_Image_Enhancement_With_Recurrent_Attentional_ICCV_2021_paper.pdf)]
+* Deep Symmetric Network for Underexposed Image Enhancement With Recurrent Attentional Learning [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Deep_Symmetric_Network_for_Underexposed_Image_Enhancement_With_Recurrent_Attentional_ICCV_2021_paper.pdf)]
 
-STAR: A Structure-Aware Lightweight Transformer for Real-Time Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_STAR_A_Structure-Aware_Lightweight_Transformer_for_Real-Time_Image_Enhancement_ICCV_2021_paper.pdf)]
+* STAR: A Structure-Aware Lightweight Transformer for Real-Time Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_STAR_A_Structure-Aware_Lightweight_Transformer_for_Real-Time_Image_Enhancement_ICCV_2021_paper.pdf)]
 
-StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_StarEnhancer_Learning_Real-Time_and_Style-Aware_Image_Enhancement_ICCV_2021_paper.pdf)]
+* StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_StarEnhancer_Learning_Real-Time_and_Style-Aware_Image_Enhancement_ICCV_2021_paper.pdf)]
 
 ## CVPR 2021
-Retinex-Inspired Unrolling With Cooperative Prior Architecture Search for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.pdf)]
+* Retinex-Inspired Unrolling With Cooperative Prior Architecture Search for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.pdf)]
 
-Debiased Subjective Assessment of Real-World Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cao_Debiased_Subjective_Assessment_of_Real-World_Image_Enhancement_CVPR_2021_paper.pdf)]
+* Debiased Subjective Assessment of Real-World Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cao_Debiased_Subjective_Assessment_of_Real-World_Image_Enhancement_CVPR_2021_paper.pdf)]
 
-Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)]
+* Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)]
 
-Learning Temporal Consistency for Low Light Video Enhancement From Single Images [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf)]
-
+* Learning Temporal Consistency for Low Light Video Enhancement From Single Images [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf)]
 
 
 # Surveys (TODO: summarize future work for each survey)
-Benchmarking Low-Light Image Enhancement and Beyond (IJCV 2021) [[paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01418-8.pdf)]
+* Benchmarking Low-Light Image Enhancement and Beyond (IJCV 2021) [[paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01418-8.pdf)]
 
-Low-Light Image and Video Enhancement Using Deep Learning: A Survey (PAMI 2021) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609683)]
+* Low-Light Image and Video Enhancement Using Deep Learning: A Survey (PAMI 2021) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609683)]
 
 # Datasets
 TODO
