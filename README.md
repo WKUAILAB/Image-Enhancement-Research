@@ -30,11 +30,21 @@ This repository contains useful resources for image enhancement researches.
 * Learning Temporal Consistency for Low Light Video Enhancement From Single Images [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf)]
 
 
-# Surveys (TODO: summarize future work for each survey)
+# Surveys (with future works. TODO: current challenges)
 * Benchmarking Low-Light Image Enhancement and Beyond (IJCV 2021) [[paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01418-8.pdf)]
-
+  * DL-methods with traditional priors (e.g., Retinex)
+  * LLIE with face detection
+  * Adversarial learning
+  * Unsupervised or Semi-supervised learning
 * Low-Light Image and Video Enhancement Using Deep Learning: A Survey (PAMI 2021) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609683)]
-
+  * Zero-shot learning
+  * Local similarity of low-light images
+  * Depthwise Separable Convolution, NAS, or Transformer
+  * Task-specific loss functions and evaluation metrics
+  * Large-scale real-world training images
+  * Standard benchmark testing images
+  * Low-Light Video Enhancement
+  * Semantic Information
 # Datasets
 TODO
 
