@@ -9,7 +9,7 @@ This repository contains useful resources for image enhancement researches.
 ## WACV 2022
 * Learning Color Representations for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Learning_Color_Representations_for_Low-Light_Image_Enhancement_WACV_2022_paper.pdf)]
 
-# AAAI 2022
+## AAAI 2022
 Low-Light Image Enhancement with Normalizing Flow [[paper](https://arxiv.org/pdf/2109.05923.pdf)]
 ## ICCV 2021
 * Representative Color Transform for Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Representative_Color_Transform_for_Image_Enhancement_ICCV_2021_paper.pdf)]
