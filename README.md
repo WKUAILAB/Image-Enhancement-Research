@@ -1,10 +1,10 @@
 # Image-Enhancement-Research
 This repository contains useful resources for image enhancement researches.
 
-# Papers
+# Recent Papers
 
 ## CVPR 2022
-* Toward Fast, Flexible, and Robust Low-Light Image Enhancement [[paper](https://arxiv.org/abs/2204.10137)]
+* Toward Fast, Flexible, and Robust Low-Light Image Enhancement [[paper](https://arxiv.org/abs/2204.10137)] [[Pytorch](https://github.com/tengyu1998/SCI)]
 
 ## WACV 2022
 * Learning Color Representations for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Learning_Color_Representations_for_Low-Light_Image_Enhancement_WACV_2022_paper.pdf)]
@@ -28,6 +28,8 @@ This repository contains useful resources for image enhancement researches.
 * Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)]
 
 * Learning Temporal Consistency for Low Light Video Enhancement From Single Images [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf)]
+
+# Previous Recommended Papers
 
 
 # Surveys (with future works. TODO: current challenges)
