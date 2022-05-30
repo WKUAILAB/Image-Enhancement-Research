@@ -36,7 +36,7 @@ Low-Light Image Enhancement with Normalizing Flow [[paper](https://arxiv.org/pdf
 # Previous Recommended Papers
 
 
-# Surveys (with future works. TODO: current challenges)
+# Surveys
 * Benchmarking Low-Light Image Enhancement and Beyond (IJCV 2021) [[paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01418-8.pdf)]
   * DL-methods with traditional priors (e.g., Retinex)
   * LLIE with face detection
