@@ -4,6 +4,8 @@ This repository contains useful resources for image enhancement researches.
 # Recent Papers
 
 ## CVPR 2022
+* Abandoning the Bayer-Filter To See in the Dark [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Abandoning_the_Bayer-Filter_To_See_in_the_Dark_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark)]
+
 * Toward Fast, Flexible, and Robust Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/tengyu1998/SCI)]
 
 * SNR-Aware Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance)]
