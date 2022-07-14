@@ -6,7 +6,7 @@ This repository contains useful resources for image enhancement researches.
 ## CVPR 2022
 * Abandoning the Bayer-Filter To See in the Dark [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Abandoning_the_Bayer-Filter_To_See_in_the_Dark_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark)]
 
-* Toward Fast, Flexible, and Robust Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/tengyu1998/SCI)]
+* **Toward Fast, Flexible, and Robust Low-Light Image Enhancement** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/tengyu1998/SCI)]
 
 * SNR-Aware Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance)]
 
@@ -35,7 +35,7 @@ This repository contains useful resources for image enhancement researches.
 * StarEnhancer: Learning Real-Time and Style-Aware Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_StarEnhancer_Learning_Real-Time_and_Style-Aware_Image_Enhancement_ICCV_2021_paper.pdf)]
 
 ## CVPR 2021
-* Retinex-Inspired Unrolling With Cooperative Prior Architecture Search for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.pdf)]
+* **Retinex-Inspired Unrolling With Cooperative Prior Architecture Search for Low-Light Image Enhancement** [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.pdf)]
 
 * Debiased Subjective Assessment of Real-World Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cao_Debiased_Subjective_Assessment_of_Real-World_Image_Enhancement_CVPR_2021_paper.pdf)]
 
