@@ -4,15 +4,15 @@ This repository contains useful resources for image enhancement researches.
 # Recent Papers
 
 ## CVPR 2022
-* Abandoning the Bayer-Filter To See in the Dark [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Abandoning_the_Bayer-Filter_To_See_in_the_Dark_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark)]
+* Abandoning the Bayer-Filter To See in the Dark [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Abandoning_the_Bayer-Filter_To_See_in_the_Dark_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark)] (No eff. comp.)
 
 * **Toward Fast, Flexible, and Robust Low-Light Image Enhancement** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/tengyu1998/SCI)]
 
-* SNR-Aware Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance)] (Efficiency Comparison: NO)
+* SNR-Aware Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance)] (No eff. comp!)
 
-* Deep Color Consistent Network for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Deep_Color_Consistent_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] (Efficiecncy Comparison: YES)
+* Deep Color Consistent Network for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Deep_Color_Consistent_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)]  (No code!)
 
-* URetinex-Net: Retinex-based Deep Unfolding Network for Low-light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_URetinex-Net_Retinex-Based_Deep_Unfolding_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/AndersonYong/URetinex-Net)] (Efficiecncy Comparison: YES)
+* **URetinex-Net: Retinex-based Deep Unfolding Network for Low-light Image Enhancement** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_URetinex-Net_Retinex-Based_Deep_Unfolding_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/AndersonYong/URetinex-Net)] 
 
 
 ## WACV 2022
