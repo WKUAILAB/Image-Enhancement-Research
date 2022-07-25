@@ -3,6 +3,12 @@ This repository contains useful resources for image enhancement researches.
 
 # Recent Papers
 
+## ECCV 2022
+* Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression [[paper](https://arxiv.org/abs/2207.10564)] [[Pytorch](https://github.com/jinyeying/night-enhancement)]
+
+* Local Color Distributions Prior for Image Enhancement [[paper](https://www.cs.cityu.edu.hk/~rynson/papers/eccv22b.pdf)] [[Pytorch](https://github.com/hywang99/LCDPNet)]
+
+
 ## CVPR 2022
 * Abandoning the Bayer-Filter To See in the Dark [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Abandoning_the_Bayer-Filter_To_See_in_the_Dark_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark)] (No eff. comp.)
 
@@ -68,13 +74,20 @@ This repository contains useful resources for image enhancement researches.
   * Vide-based enhancement
 
 # Datasets
-TODO
+  * LOL
+  * VE-LOL
+  * SICE
+  * DarkFace
+  * ExDark
+  * NPE, LIME, MEF, DICM, VV, DarkFace, ExDark
 
 # Evaluation Metrics
-  * PSNR 
-  * SSIM
-  * LPIPS 
-  * TODO: add more
+  * PSNR (↑)
+  * SSIM (↑)
+  * LPIPS (↓)
+  * UNIQUE (↑)
+  * BRISQUE (↓)
+  * SPAQ (↑)
 
 # Related Repository
 
