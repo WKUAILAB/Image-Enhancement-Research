@@ -79,7 +79,7 @@ This repository contains useful resources for image enhancement researches.
   * SICE
   * DarkFace
   * ExDark
-  * NPE, LIME, MEF, DICM, VV, DarkFace, ExDark
+  * NPE, LIME, MEF, DICM, VV
 
 # Evaluation Metrics
   * PSNR (↑)
