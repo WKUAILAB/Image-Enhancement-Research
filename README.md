@@ -32,6 +32,8 @@ This repository contains useful resources for image enhancement researches.
 ## AAAI 2022
 * Low-Light Image Enhancement with Normalizing Flow [[paper](https://arxiv.org/pdf/2109.05923.pdf)] [[Pytorch](https://github.com/wyf0912/LLFlow)]
 
+* Semantically Contrastive Learning for Low-light Image Enhancement [[paper](https://arxiv.org/pdf/2112.06451v1.pdf)] [[Pytorch](https://github.com/LingLIx/SCL-LLE)]
+
 ## ICCV 2021
 * Representative Color Transform for Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Representative_Color_Transform_for_Image_Enhancement_ICCV_2021_paper.pdf)]
 
