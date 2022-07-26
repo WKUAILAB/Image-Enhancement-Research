@@ -49,7 +49,6 @@ This repository contains useful resources for image enhancement researches.
 
 * Learning Temporal Consistency for Low Light Video Enhancement From Single Images [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf)]
 
-# Previous Recommended Papers
 
 
 # Surveys
