@@ -4,25 +4,29 @@ This repository contains useful resources for image enhancement researches.
 # Recent Papers
 
 ## Arxiv 2022
-* Illumination Adaptive Transformer [[paper](https://arxiv.org/abs/2205.14871)] [[Pytorch](https://github.com/cuiziteng/illumination-adaptive-transformer)]
+* **Illumination Adaptive Transformer** [[paper](https://arxiv.org/abs/2205.14871)] [[Pytorch](https://github.com/cuiziteng/illumination-adaptive-transformer)]
 
-## ECCV 2022
-* Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression [[paper](https://arxiv.org/abs/2207.10564)] [[Pytorch](https://github.com/jinyeying/night-enhancement)]
+## ECCV 2022 
+* **Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression** [[paper](https://arxiv.org/abs/2207.10564)] [[Pytorch](https://github.com/jinyeying/night-enhancement)]
 
-* Local Color Distributions Prior for Image Enhancement [[paper](https://www.cs.cityu.edu.hk/~rynson/papers/eccv22b.pdf)] [[Pytorch](https://github.com/hywang99/LCDPNet)]
+* **Local Color Distributions Prior for Image Enhancement** [[paper](https://www.cs.cityu.edu.hk/~rynson/papers/eccv22b.pdf)] [[Pytorch](https://github.com/hywang99/LCDPNet)]
 
+## AAAI 2022 
+* **Low-Light Image Enhancement with Normalizing Flow** [[paper](https://arxiv.org/pdf/2109.05923.pdf)] [[Pytorch](https://github.com/wyf0912/LLFlow)]
 
-## CVPR 2022
+* **Semantically Contrastive Learning for Low-light Image Enhancement** [[paper](https://arxiv.org/pdf/2112.06451v1.pdf)] [[Pytorch](https://github.com/LingLIx/SCL-LLE)]
+
+## CVPR 2022 (None of them are good)
 * Abandoning the Bayer-Filter To See in the Dark [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Abandoning_the_Bayer-Filter_To_See_in_the_Dark_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark)]
- * No efficiency comparison
- * Not evaluated on major benchmarks
+  * No efficiency comparison
+  * Not evaluated on major benchmarks
 
 * Toward Fast, Flexible, and Robust Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Toward_Fast_Flexible_and_Robust_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/tengyu1998/SCI)]
- * Result much worse than what is in the paper
- * Inference much slow than what is in the paper
+  * Result much worse than what is in the paper
+  * Inference much slow than what is in the paper
 
 * SNR-Aware Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_SNR-Aware_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance)]
- * No efficiency comparison
+  * No efficiency comparison
 
 * Deep Color Consistent Network for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Deep_Color_Consistent_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf)]
   * No code is available
@@ -34,11 +38,6 @@ This repository contains useful resources for image enhancement researches.
 * Learning Color Representations for Low-Light Image Enhancement [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Learning_Color_Representations_for_Low-Light_Image_Enhancement_WACV_2022_paper.pdf)]
 
 * Semantic-Guided Zero-Shot Learning for Low-Light Image/Video Enhancement [[paper](https://arxiv.org/pdf/2110.00970.pdf)]
-
-## AAAI 2022
-* **Low-Light Image Enhancement with Normalizing Flow** [[paper](https://arxiv.org/pdf/2109.05923.pdf)] [[Pytorch](https://github.com/wyf0912/LLFlow)]
-
-* **Semantically Contrastive Learning for Low-light Image Enhancement** [[paper](https://arxiv.org/pdf/2112.06451v1.pdf)] [[Pytorch](https://github.com/LingLIx/SCL-LLE)]
 
 ## ICCV 2021
 * Representative Color Transform for Image Enhancement [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Representative_Color_Transform_for_Image_Enhancement_ICCV_2021_paper.pdf)]
