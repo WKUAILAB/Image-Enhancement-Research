@@ -16,8 +16,8 @@ This repository contains useful resources for image enhancement researches.
 
 * **Semantically Contrastive Learning for Low-light Image Enhancement** [[paper](https://arxiv.org/pdf/2112.06451v1.pdf)] [[Pytorch](https://github.com/LingLIx/SCL-LLE)]
 
-## CVPR 2022 (None of them are good)
-* Exposure Normalization and Compensation for Multiple-Exposure Correction [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Exposure_Normalization_and_Compensation_for_Multiple-Exposure_Correction_CVPR_2022_paper.pdf)] [[Code](https://github.com/KevinJ-Huang/ExposureNorm-Compensation)]
+## CVPR 2022 
+* Exposure Normalization and Compensation for Multiple-Exposure Correction [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Exposure_Normalization_and_Compensation_for_Multiple-Exposure_Correction_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/KevinJ-Huang/ExposureNorm-Compensation)]
   * Code unfinished
   * Paper good -> address both over/under-exposure
 
