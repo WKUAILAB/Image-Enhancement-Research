@@ -6,9 +6,6 @@ This repository contains useful resources for image enhancement researches.
 ## Arxiv 2022
 * Illumination Adaptive Transformer [[paper](https://arxiv.org/abs/2205.14871)] [[Pytorch](https://github.com/cuiziteng/illumination-adaptive-transformer)]
 
-* CoAtNet: Marrying Convolution and Attention for All Data Sizes [[paper](https://arxiv.org/abs/2106.04803)] [[Pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch/blob/master/model/attention/CoAtNet.py)]
-
-
 ## ECCV 2022 
 * Simple Baselines for Image Restoration [[paper](https://arxiv.org/abs/2204.04676)] [[Pytorch](https://github.com/megvii-research/NAFNet/)]
 
