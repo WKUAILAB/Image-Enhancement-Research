@@ -7,7 +7,7 @@ This repository contains useful resources for image enhancement researches.
 * Illumination Adaptive Transformer [[paper](https://arxiv.org/abs/2205.14871)] [[Pytorch](https://github.com/cuiziteng/illumination-adaptive-transformer)]
 
 ## ECCV 2022 
-* Simple Baselines for Image Restoration [[paper](https://arxiv.org/abs/2204.04676)] [[Pytorch](https://github.com/megvii-research/NAFNet/)]
+<!-- * Simple Baselines for Image Restoration [[paper](https://arxiv.org/abs/2204.04676)] [[Pytorch](https://github.com/megvii-research/NAFNet/)] -->
 
 * **Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression** [[paper](https://arxiv.org/abs/2207.10564)] [[Pytorch](https://github.com/jinyeying/night-enhancement)]
 
