@@ -4,17 +4,17 @@ This repository contains useful resources for image enhancement researches.
 # Recent Papers
 
 ## Arxiv 2022
-* **Illumination Adaptive Transformer** [[paper](https://arxiv.org/abs/2205.14871)] [[Pytorch](https://github.com/cuiziteng/illumination-adaptive-transformer)]
+* Illumination Adaptive Transformer [[paper](https://arxiv.org/abs/2205.14871)] [[Pytorch](https://github.com/cuiziteng/illumination-adaptive-transformer)]
 
 ## ECCV 2022 
 * **Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression** [[paper](https://arxiv.org/abs/2207.10564)] [[Pytorch](https://github.com/jinyeying/night-enhancement)]
 
-* **Local Color Distributions Prior for Image Enhancement** [[paper](https://www.cs.cityu.edu.hk/~rynson/papers/eccv22b.pdf)] [[Pytorch](https://github.com/hywang99/LCDPNet)]
+* Local Color Distributions Prior for Image Enhancement [[paper](https://www.cs.cityu.edu.hk/~rynson/papers/eccv22b.pdf)] [[Pytorch](https://github.com/hywang99/LCDPNet)]
 
 ## AAAI 2022 
-* **Low-Light Image Enhancement with Normalizing Flow** [[paper](https://arxiv.org/pdf/2109.05923.pdf)] [[Pytorch](https://github.com/wyf0912/LLFlow)]
+* Low-Light Image Enhancement with Normalizing Flow [[paper](https://arxiv.org/pdf/2109.05923.pdf)] [[Pytorch](https://github.com/wyf0912/LLFlow)]
 
-* **Semantically Contrastive Learning for Low-light Image Enhancement** [[paper](https://arxiv.org/pdf/2112.06451v1.pdf)] [[Pytorch](https://github.com/LingLIx/SCL-LLE)]
+* Semantically Contrastive Learning for Low-light Image Enhancement [[paper](https://arxiv.org/pdf/2112.06451v1.pdf)] [[Pytorch](https://github.com/LingLIx/SCL-LLE)]
 
 ## CVPR 2022 
 * Exposure Normalization and Compensation for Multiple-Exposure Correction [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Exposure_Normalization_and_Compensation_for_Multiple-Exposure_Correction_CVPR_2022_paper.pdf)] [[Pytorch](https://github.com/KevinJ-Huang/ExposureNorm-Compensation)]
@@ -60,7 +60,7 @@ This repository contains useful resources for image enhancement researches.
 
 * Debiased Subjective Assessment of Real-World Image Enhancement [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cao_Debiased_Subjective_Assessment_of_Real-World_Image_Enhancement_CVPR_2021_paper.pdf)]
 
-* Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)]
+* **Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects** [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)]
 
 * Learning Temporal Consistency for Low Light Video Enhancement From Single Images [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf)]
 
